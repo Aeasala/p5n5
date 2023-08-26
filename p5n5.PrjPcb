@@ -201,7 +201,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DTKHKHOP
 
 [Document10]
-DocumentPath=..\..\AltiumCore\Templates\ESM\PadVia.PvLib
+DocumentPath=..\..\..\..\AltiumCore\Templates\ESM\PadVia.PvLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
